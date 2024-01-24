@@ -6,7 +6,6 @@ layout: page
 title: Home
 ---
 # Jada Gibson
-## Portfolio
 
 <!--
 ![profile image](https://upload.wikimedia.org/wikipedia/commons/0/03/Cat_wedding.jpeg)
