@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Website
-email: 
+title: Jada Gibson
+email: aaliyahjadeart@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Brought to you by the Lewis & Ruth Sherman Centre for Digital Scholarship and the McMaster University Library.
+  Digital Portfolio
 baseurl: "/JadaGibson" # the subpath of your site, e.g. /blog
 url: "https://GibsonJJ.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  Jekyll
+twitter_username: none
+github_username:  none
 
 # Build settings
 theme: minima
